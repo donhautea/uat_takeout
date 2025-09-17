@@ -1,0 +1,8 @@
+streamlit>=1.37
+pandas>=2.2
+openpyxl>=3.1
+bcrypt>=4.1
+sqlite-utils>=3.36
+
+google-cloud-storage
+google-auth
